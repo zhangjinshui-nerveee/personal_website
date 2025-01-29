@@ -3,7 +3,7 @@ title: "ECE 431/531-Power Electronic Circuits for Energy Conversion"
 collection: teaching
 type: "Undergraduate & graduate course"
 permalink: /teaching/2014-spring-teaching-1
-slidesurl: 'http://github.com/zhangjinshui-nerveee/personal_website/files/ece431_lab_session.pdf'
+slidesurl: 'http://jinshui.me/files/ece431_lab_session.pdf'
 venue: "Duke University, ECE Department"
 date: 2024-01-01
 location: "Durham, NC, USA"
