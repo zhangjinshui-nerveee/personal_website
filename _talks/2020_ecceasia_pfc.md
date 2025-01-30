@@ -1,10 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Precise Correction of Current Zero-Crossing Distortion of Totem Pole PFC Converter"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2013-03-01-tutorial-1
 venue: "UC-Berkeley Institute for Testing Science"
 date: 2013-03-01
+slidesurl: 'http://jinshui.me/files/slides_2020_ecce_asia_pfc.pdf'
 location: "Berkeley CA, USA"
 ---
 
