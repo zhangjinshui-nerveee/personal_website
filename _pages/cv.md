@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, Duke University, 2026 (expected)
+* M.S. in Electrical Engineering, Xi'an Jiaotong University, 2021
+* B.S. in Electrical Engineering, Tianjin University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Teaching Assistant
+  * Duke University
+  * Duties includes: Holding Q&A sessions; designing and leading lab sessions demonstrating fundamentals of power electronics
+  * Supervisor: Prof. Angel V Peterchev
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2022: Teaching Assistant
+  * Duke University
+  * Duties includes: Holding Q&A sessions
+  * Supervisor: Prof. Angel V Peterchev
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 - May 2020: Application Engineer
+  * Longteng Semiconductor Co. 
+  * Duties included: Developed a 3 kW Totem-Pole rectifier with unlisted SiC MOSFET chips
+
+* Summer 2018: Power Electronics Intern
+  * Vertiv Co.
+  * Duties included: Performed noise & mechanical test of uninterrupted power supply for data center
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PC-level programming
+  * Python
+  * MATLAB
+* Embedded programming
+  * LabVIEW on NI embedded Linux systems
+  * C / C++ for DSP & STM controllers
+  * Verilog for FPGA / CPLD
+* CAD tools
+  * Altium designer
+  * Autodesk fusion 360
 
 Publications
 ======
@@ -61,4 +68,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer at [Food Not Bombs](https://en.wikipedia.org/wiki/Food_Not_Bombs)
+* Volunteer at the [Recyclry](https://www.recyclery.org/)

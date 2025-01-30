@@ -1,11 +1,10 @@
 ---
 title: "GaN Transistor Design for Transient-Overload Power Applications"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+type: "Conference proceedings talk"
+permalink: /talks/2023_apec_gan_thermal
 venue: "APEC 2023"
-slidesurl: 'http://jinshui.me/files/poster_2023_apec_gan_thermal.pdf'
-date: 2012-03-01
+date: 2023-03-01
 location: "Orlando, FL, USA"
 ---
 
@@ -14,3 +13,5 @@ For transient over-loading applications, focusing only on steady thermal status 
 We propose adding a copper mass between transistors and heat sink as a heat buffer to relieve the stress during the over-loading moments without over-designing the system.
 
 Simulation and experimental results prove the thermal mass can extremely extend the operation boundary of a modular Magnetogenetic pulse generator and endure nearly 250 % more transient loss level.
+
+[Download slides here](http://jinshui.me/files/poster_2023_apec_gan_thermal.pdf)
