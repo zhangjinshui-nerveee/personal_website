@@ -13,4 +13,4 @@ Here, you’ll find insights into my projects, thoughts on cutting-edge tech, an
 
 Let’s build something exciting.
 
-The best way to find me is through my email jinshui.zhang@duke.edu 
+> The best way to find me is through my email jinshui.zhang@duke.edu 

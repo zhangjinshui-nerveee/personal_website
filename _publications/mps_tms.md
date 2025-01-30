@@ -1,7 +1,7 @@
 ---
 title: "Highly Flexible Electronics for Selective Noninvasive Stimulation Through Free Pulse Shaping in Transcranial Magnetic Stimulation and Magnetogenetics"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-01-01-paper-8
 excerpt: "Flexible electronics for noninvasive neuromodulation applications."
 date: 2023-01-01

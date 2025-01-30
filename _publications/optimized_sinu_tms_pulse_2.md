@@ -1,7 +1,7 @@
 ---
 title: "Optimized Monophasic-equivalent Transcranial Magnetic Stimulation Pulses with Reduced Coil Heating"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-01-01-paper-9
 excerpt: "Coil heating reduction in transcranial magnetic stimulation systems."
 date: 2023-01-01
