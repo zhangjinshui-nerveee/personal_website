@@ -17,23 +17,19 @@ Education
 
 Work experience
 ======
-* Spring 2024: Teaching Assistant
-  * Duke University
-  * Duties includes: Holding Q&A sessions; designing and leading lab sessions demonstrating fundamentals of power electronics
+* 2024-Spring: Teaching Assistant @ Duke University
+  * Held Q&A sessions; designed and led lab sessions demonstrating fundamentals of power electronics
   * Supervisor: Prof. Angel V Peterchev
 
-* Spring 2022: Teaching Assistant
-  * Duke University
-  * Duties includes: Holding Q&A sessions
+* 2022-Spring: Teaching Assistant @ Duke University
+  * Q&A sessions
   * Supervisor: Prof. Angel V Peterchev
 
-* May 2019 - May 2020: Application Engineer
-  * Longteng Semiconductor Co. 
-  * Duties included: Developed a 3 kW Totem-Pole rectifier with unlisted SiC MOSFET chips
+* May 2019 - May 2020: Application Engineer @ [Longteng Semiconductor Co.](https://www.lonten.cc/)
+  * Developed a 3 kW Totem-Pole rectifier with unlisted SiC MOSFET chips
 
-* Summer 2018: Power Electronics Intern
-  * Vertiv Co.
-  * Duties included: Performed noise & mechanical test of uninterrupted power supply for data center
+* 2018 Summer: Power Electronics Intern @ [Vertiv Co.](https://www.vertiv.com/en-us/)
+  * Performed noise & mechanical test of uninterrupted power supply for data center
   
 Skills
 ======
@@ -47,6 +43,10 @@ Skills
 * CAD tools
   * Altium designer
   * Autodesk fusion 360
+* Lab hand-on expertise
+  * oscilloscope
+  * mechanical integration
+  * organizing tools & keeping benches neat
 
 Publications
 ======
@@ -66,7 +66,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and activities
 ======
 * Volunteer at [Food Not Bombs](https://en.wikipedia.org/wiki/Food_Not_Bombs)
 * Volunteer at the [Recyclry](https://www.recyclery.org/)
+* Shooting guard playing at 2022 [Duke IMLeague basketball open-A group](https://www.imleagues.com/spa/sport/35f401b671cc4caa98af4636139635db/home#sportname)
+* Choir member at Xi'an Jiaotong University
+* Student leader of superconductor tech-camp 2017 @ Tianjin University
