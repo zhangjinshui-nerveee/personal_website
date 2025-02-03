@@ -1,12 +1,14 @@
 ---
-title: 'I Want A Dumb Computer'
+title: 'Embracing Dumb Tools in An Age When Everyting Is Smart'
 date: 2022-01-23 
-permalink: /posts/2023/02/dumbphone/
+permalink: /posts/2022/01/dumbtools/
 tags:
   - digital minimalism
 ---
 
-In a world increasingly dominated by intelligent systems, sleek graphical interfaces, and multitasking environments, the idea of "dumb" tools might seem outdated. However, these seemingly archaic tools--like command-line terminals, basic text editors, and minimalistic devices--remain essential in 2024. Why? Because dumb tools are far less distracting, allowing us to focus on the task at hand.
+In a world increasingly dominated by intelligent systems, sleek graphical interfaces, and multitasking environments, the idea of "dumb" tools might seem outdated. 
+
+However, these seemingly archaic tools--like command-line terminals, basic text editors, and minimalistic devices--remain essential in 2024. Why? Because dumb tools are far less distracting, allowing us to focus on the task at hand.
 
 1. Minimal Distractions
 
@@ -31,3 +33,8 @@ Switching between tasks or multitasking is a productivity killer. Dumb tools enc
 > Dumb Tools Aren't Anti-Progress: Advocating for dumb tools doesn't mean rejecting innovation. Instead, it's about striking a balance. While smart tools have their place, dumb tools excel in fostering focus, efficiency, and mastery. They serve as a reminder that sometimes, less is more.
 
 In 2024, the allure of sophisticated, feature-rich tools is undeniable. But as we navigate an increasingly distracting digital landscape, dumb tools remain valuable allies. By reducing distractions, encouraging mastery, and promoting efficiency, they help us work smarter -- ironically, by staying simple.
+
+List:
+- vim instead of vs code
+- a basic casio watch instead of smart watch
+- handwriting notes instead of fancy notes app (sometimes requiring internet to take notes? yes, I am talking about notion lol)
