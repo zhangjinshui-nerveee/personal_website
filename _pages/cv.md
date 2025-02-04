@@ -33,20 +33,25 @@ Work experience
   
 Skills
 ======
-* PC-level programming
+* Hardware development
+  * Altium designer
+  * Autodesk fusion 360
+  * oscilloscope
+  * handson tinkering, assembling & troubleshooting
+* Software development
   * Python
-  * MATLAB
-* Embedded programming
   * LabVIEW on NI embedded Linux systems
   * C / C++ for DSP & STM controllers
   * Verilog for FPGA / CPLD
-* CAD tools
-  * Altium designer
-  * Autodesk fusion 360
-* Lab hand-on expertise
-  * oscilloscope
-  * mechanical integration
-  * organizing tools & keeping benches neat
+* Favorite tools
+  * vim
+  * inkscape
+  * latex
+  * wls2
+  * powershell
+  * obsidian notebook
+
+
 
 Publications
 ======
