@@ -3,8 +3,6 @@ title: 'Noninvasive or invasive? It is a question (for brain stimulation)'
 date: 2024-08-23 
 permalink: /posts/2024/08/brst-review/
 tags:
-  - tms
-  - nimb
   - neuroscience
 ---
 

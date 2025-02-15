@@ -4,6 +4,7 @@ date: 2023-02-23
 permalink: /posts/2023/02/dumbphone/
 tags:
   - digital minimalism
+  - productivity
 ---
 
 In today's hyper-connected world, the idea of owning a dumb phone45a device that helps you stay disconnected45is appealing. However, modern "dumb phones" are often overpriced, limited in functionality, and let's face it, mostly serve as social status symbols rather than practical tools.

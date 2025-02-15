@@ -4,6 +4,7 @@ date: 2022-01-23
 permalink: /posts/2022/01/dumbtools/
 tags:
   - digital minimalism
+  - mindset
 ---
 
 In a world increasingly dominated by intelligent systems, sleek graphical interfaces, and multitasking environments, the idea of "dumb" tools might seem outdated. 
