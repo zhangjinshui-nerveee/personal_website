@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Duke University, 2026 (expected)
+* Ph.D in Electrical and Computer Engineering, Duke University, 2026 (expected). 
+  * Topic: high-fidelity high-power electronics
+  * Advisor: Stefan M Goetz
 * M.S. in Electrical Engineering, Xi'an Jiaotong University, 2021
 * B.S. in Electrical Engineering, Tianjin University, 2018
 
@@ -19,10 +21,6 @@ Work experience
 ======
 * 2024-Spring: Teaching Assistant @ Duke University
   * Held Q&A sessions; designed and led lab sessions demonstrating fundamentals of power electronics
-  * Supervisor: Prof. Angel V Peterchev
-
-* 2022-Spring: Teaching Assistant @ Duke University
-  * Q&A sessions
   * Supervisor: Prof. Angel V Peterchev
 
 * May 2019 - May 2020: Application Engineer @ [Longteng Semiconductor Co.](https://www.lonten.cc/)
@@ -45,6 +43,7 @@ Skills
   * Verilog for FPGA / CPLD
 * Favorite tools
   * vim
+  * git
   * inkscape
   * latex
   * wls2
@@ -75,6 +74,6 @@ Service and activities
 ======
 * Volunteer at [Food Not Bombs](https://en.wikipedia.org/wiki/Food_Not_Bombs)
 * Volunteer at the [Recyclry](https://www.recyclery.org/)
-* Shooting guard playing at 2022 [Duke IMLeague basketball open-A group](https://www.imleagues.com/spa/sport/35f401b671cc4caa98af4636139635db/home#sportname)
+* Guard at 2022 [Duke intramural basketball open-A league](https://www.imleagues.com/spa/sport/35f401b671cc4caa98af4636139635db/home#sportname)
 * Choir member at Xi'an Jiaotong University
 * Student leader of superconductor tech-camp 2017 @ Tianjin University
