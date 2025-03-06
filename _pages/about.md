@@ -1,18 +1,19 @@
 ---
 permalink: /
-title: "Hello"
+title: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I’m glad you’re here. 
+So glad you’re here. 
 
-My name is Jinshui (Jimmy) Zhang. I am a researcher, engineer, and problem-solver passionate about pushing the boundaries of technologies. My work spans power electronics, signal processing, and neuroscience, driven by the goal to make electronics smart, efficient, and impactful.
+I'm Jinshui (Jimmy), a PhD student at Duke University in the Electrical and Computer Engineering department in [Brain Stimulation Engineering Lab](https://sites.google.com/view/bsel/home). 
+Originally from Shandong, China, I now live in Chapel Hill / Carrboro, NC.
 
-Here, you’ll find insights into my projects, thoughts on cutting-edge tech, and maybe a few unexpected ideas along the way. Feel free to explore, reach out, and connect. Innovation is always better with good conversations.
+I am a craftsman dedicated to making electronics smart, powerful, efficient, and impactful. My work spans power electronics, signal processing, and neuroscience. 
 
-Let’s build something exciting.
+Here on this website, you’ll find insights into my projects, thoughts on cutting-edge tech, and maybe a few unexpected ideas along the way. Please be my guest and feel free to explore, reach out, and connect. 
 
-> The best way to find me is through my email jinshui.zhang@duke.edu 
+> The best way to reach me is via email: jinshui.zhang@duke.edu 
