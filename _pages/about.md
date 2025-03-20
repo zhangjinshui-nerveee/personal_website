@@ -9,7 +9,7 @@ redirect_from:
 
 So glad you’re here. 
 
-I'm Jinshui (Jimmy), a PhD student at Duke University in the Electrical and Computer Engineering department in [Brain Stimulation Engineering Lab](https://sites.google.com/view/bsel/home). 
+I'm Jinshui (Jimmy), a PhD student at Duke University in the Electrical and Computer Engineering department in [Brain Stimulation Engineering Lab](https://sites.google.com/view/bsel/home), advised by [Prof. Stefan Goetz](https://stephanmgoetz.github.io/).
 Originally from Shandong, China, I now live in Chapel Hill / Carrboro, NC.
 
 I am a craftsman dedicated to making electronics smart, powerful, efficient, and impactful. My work spans power electronics, signal processing, and neuroscience. 
