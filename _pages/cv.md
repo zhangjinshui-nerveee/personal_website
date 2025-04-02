@@ -50,8 +50,6 @@ Skills
   * powershell
   * obsidian notebook
 
-
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -69,6 +67,15 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+Students I have mentored
+======
+* Majed Al Munefi (Undergraduate, ECE, Duke University)
+* Bryan Gonzalez (Undergraduate, ECE, Duke University)
+* Nimo Yu (Undergraduate, ECE, Duke University)
+* Xiaoyang Gao (Graduate, Xi'an Jiaotong University)
+
   
 Service and activities
 ======
